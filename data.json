@@ -20,7 +20,7 @@
    "mode": "named",
    "name": "蒋梓航",
    "toStudents": true,
-   "toPrincipal": false,
+   "toPrincipal": true,
    "voters": {
     "a364e4cf-7d5c-4bb6-bc8d-d3356ce341be": "up",
     "0bc31de0-54e4-4b9b-8309-3da8bb5e43ee": "up"
