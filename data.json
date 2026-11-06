@@ -21,7 +21,9 @@
    "name": "蒋梓航",
    "toStudents": true,
    "toPrincipal": false,
-   "voters": {},
+   "voters": {
+    "a364e4cf-7d5c-4bb6-bc8d-d3356ce341be": "up"
+   },
    "comments": []
   }
  ]
