@@ -32,6 +32,18 @@
      "text": "这是校长的回复"
     }
    ]
+  },
+  {
+   "id": "mw58e6zvawoo4",
+   "time": 1793985074925,
+   "category": "",
+   "content": "这是私密信息",
+   "mode": "private",
+   "name": "",
+   "toStudents": false,
+   "toPrincipal": false,
+   "voters": {},
+   "comments": []
   }
  ]
 }
