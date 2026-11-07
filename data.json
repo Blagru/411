@@ -11,50 +11,6 @@
    "toPrincipal": true,
    "voters": {},
    "comments": []
-  },
-  {
-   "id": "mw6h435f8e6dv",
-   "time": 1794060186099,
-   "category": "",
-   "content": "aaaaaa",
-   "mode": "anon",
-   "name": "",
-   "toStudents": true,
-   "toPrincipal": false,
-   "voters": {},
-   "comments": [
-    {
-     "id": "mw6h4rtpnmrsz",
-     "time": 1794060219014,
-     "text": "Nihao",
-     "by": "student"
-    },
-    {
-     "id": "mw6j078z9vu5r",
-     "time": 1794063364684,
-     "text": "okok",
-     "by": "student"
-    },
-    {
-     "id": "mw6j0d9gl0rt4",
-     "time": 1794063376331,
-     "text": "baga",
-     "by": "student"
-    },
-    {
-     "id": "mw6j44cjpm16m",
-     "time": 1794063547637,
-     "text": "🉑",
-     "by": "monitor"
-    },
-    {
-     "id": "mw6j4tn2pk3et",
-     "time": 1794063580357,
-     "text": "abcde",
-     "by": "monitor",
-     "name": "jzh"
-    }
-   ]
   }
  ],
  "notices": [
