@@ -9,7 +9,9 @@
    "name": "蒋梓航",
    "toStudents": true,
    "toPrincipal": true,
-   "voters": {},
+   "voters": {
+    "41e8c1c1-89e3-497a-9456-e827ad9481bf": "up"
+   },
    "comments": []
   }
  ]
