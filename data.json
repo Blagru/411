@@ -1,31 +1,4 @@
 {
- "posts": [
-  {
-   "id": "mw5ul1dzqref7",
-   "time": 1794022345800,
-   "category": "其他",
-   "content": "这是一段测试",
-   "mode": "named",
-   "name": "蒋梓航",
-   "toStudents": true,
-   "toPrincipal": true,
-   "voters": {
-    "41e8c1c1-89e3-497a-9456-e827ad9481bf": "up",
-    "ad24409a-2006-463c-b0bc-493bc7fd951b": "up"
-   },
-   "comments": [
-    {
-     "id": "mw5vonbbmc2n7",
-     "time": 1794024193800,
-     "text": "这是一条回复"
-    },
-    {
-     "id": "mw5vp0fl617db",
-     "time": 1794024210801,
-     "text": "这是第二条回复"
-    }
-   ]
-  }
- ],
+ "posts": [],
  "notices": []
 }
