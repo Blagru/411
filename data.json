@@ -1,5 +1,18 @@
 {
- "posts": [],
+ "posts": [
+  {
+   "id": "mw6fedqkqcrkk",
+   "time": 1794057307148,
+   "category": "活动",
+   "content": "本网站功能已健全，秋游那天会很热闹哦",
+   "mode": "anon",
+   "name": "",
+   "toStudents": false,
+   "toPrincipal": false,
+   "voters": {},
+   "comments": []
+  }
+ ],
  "notices": [
   {
    "id": "mw6fc7ki8l3ql",
