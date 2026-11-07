@@ -7,7 +7,7 @@
    "content": "这是一段测试",
    "mode": "named",
    "name": "蒋梓航",
-   "toStudents": false,
+   "toStudents": true,
    "toPrincipal": false,
    "voters": {},
    "comments": []
