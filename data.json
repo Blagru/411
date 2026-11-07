@@ -1,28 +1,6 @@
 {
  "posts": [
   {
-   "id": "mw55gjpl5a84b",
-   "time": 1793980145865,
-   "category": "其他",
-   "content": "这是一条测试",
-   "mode": "named",
-   "name": "蒋梓航",
-   "toStudents": true,
-   "toPrincipal": true,
-   "voters": {
-    "a364e4cf-7d5c-4bb6-bc8d-d3356ce341be": "up",
-    "0bc31de0-54e4-4b9b-8309-3da8bb5e43ee": "up",
-    "ad24409a-2006-463c-b0bc-493bc7fd951b": "up"
-   },
-   "comments": [
-    {
-     "id": "mw55xmemjeej7",
-     "time": 1793980942512,
-     "text": "这是校长的回复"
-    }
-   ]
-  },
-  {
    "id": "mw58e6zvawoo4",
    "time": 1793985074925,
    "category": "其他",
