@@ -7,7 +7,7 @@
    "content": "本网站功能已健全，秋游那天会很热闹哦",
    "mode": "anon",
    "name": "",
-   "toStudents": true,
+   "toStudents": false,
    "toPrincipal": true,
    "voters": {},
    "comments": []
