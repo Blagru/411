@@ -10,7 +10,8 @@
    "toStudents": true,
    "toPrincipal": true,
    "voters": {
-    "41e8c1c1-89e3-497a-9456-e827ad9481bf": "up"
+    "41e8c1c1-89e3-497a-9456-e827ad9481bf": "up",
+    "ad24409a-2006-463c-b0bc-493bc7fd951b": "up"
    },
    "comments": [
     {
@@ -25,5 +26,6 @@
     }
    ]
   }
- ]
+ ],
+ "notices": []
 }
