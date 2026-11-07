@@ -7,7 +7,7 @@
    "content": "12345",
    "mode": "anon",
    "name": "",
-   "toStudents": true,
+   "toStudents": false,
    "toPrincipal": false,
    "voters": {},
    "comments": []
