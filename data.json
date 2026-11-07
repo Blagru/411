@@ -32,7 +32,7 @@
    "mode": "anon",
    "name": "",
    "toStudents": false,
-   "toPrincipal": false,
+   "toPrincipal": true,
    "voters": {},
    "comments": []
   }
