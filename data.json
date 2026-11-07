@@ -1,20 +1,5 @@
 {
- "posts": [
-  {
-   "id": "mw6eyklec25sl",
-   "time": 1794056569538,
-   "category": "其他",
-   "content": "12345",
-   "mode": "anon",
-   "name": "",
-   "toStudents": true,
-   "toPrincipal": false,
-   "voters": {
-    "0bc31de0-54e4-4b9b-8309-3da8bb5e43ee": "up"
-   },
-   "comments": []
-  }
- ],
+ "posts": [],
  "notices": [
   {
    "id": "mw6f1fx0lq3y4",
