@@ -8,7 +8,7 @@
    "mode": "named",
    "name": "蒋梓航",
    "toStudents": true,
-   "toPrincipal": false,
+   "toPrincipal": true,
    "voters": {},
    "comments": []
   }
