@@ -80,7 +80,9 @@
    "name": "我叫齐夏",
    "toStudents": true,
    "toPrincipal": false,
-   "voters": {},
+   "voters": {
+    "0bc31de0-54e4-4b9b-8309-3da8bb5e43ee": "up"
+   },
    "comments": [],
    "imgs": [
     "img/mwdmx9s75c4qx.jpg"
