@@ -61,7 +61,7 @@
    "content": "关于卫生：或许可以规定几个倒垃圾的时间，不然很容易忘记。",
    "mode": "named",
    "name": "qy",
-   "toStudents": false,
+   "toStudents": true,
    "toPrincipal": false,
    "voters": {},
    "comments": []
